@@ -1,13 +1,12 @@
 
-final List kanji = [
-  {'id':0,'kanji':'飛'},
-  {'id':1,'kanji':'機'},
-  {'id':2,'kanji':'空'},
-  {'id':3,'kanji':'港'},
-  {'id':4,'kanji':'預'},
-  {'id':5,'kanji':'込'},
-  {'id':6,'kanji':'荷'},
-  {'id':7,'kanji':'検'},
-  {'id':8,'kanji':'査'},
-];
-
+final Map<String,int> kanji = {
+  '飛':0,
+  '機':1,
+  '空':2,
+  '港':3,
+  '預':4,
+  '込':5,
+  '荷':6,
+  '検':7,
+  '査':8,
+};
