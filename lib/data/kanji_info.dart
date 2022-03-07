@@ -12,6 +12,18 @@ final List kanjiInfo = [
     'mean_zg': [''],
     'mean_en': ['fly'],
   },
+  {
+    'id':0,
+    'unit':1,
+    'lesson':1,
+    'number':2,
+    'strokes': 16,
+    'kun': [''],
+    'on': [''],
+    'mean_un': [''],
+    'mean_zg': [''],
+    'mean_en': [''],
+  },
 ];
 String copyForInfo = """
   {
