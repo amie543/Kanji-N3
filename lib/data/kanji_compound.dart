@@ -61,7 +61,7 @@ final List kanjiCompound = [
     ],
   },
   {
-    'id': 3,
+    'id': 2,
     'compound': ['空く', '空ける', '空港', '空気', '空', '空間'],
     'compound_furi': ['空く', '空ける', '空港', '空気', '空', '空間'],
     'compound_un': ['', '', '', '', '', ''],
@@ -76,7 +76,7 @@ final List kanjiCompound = [
     ],
   },
   {
-    'id': 4,
+    'id': 3,
     'compound': ['港', '港町', '横浜港', '漁港'],
     'compound_furi': ['港', '港町', '横浜港', '漁港'],
     'compound_un': [
@@ -89,7 +89,7 @@ final List kanjiCompound = [
     'compound_en': ['harbor', 'harbor town', 'yokohama harbor', 'fishing '],
   },
   {
-    'id': 5,
+    'id': 4,
     'compound': ['預ける', '預かる', '預金', '預ける'],
     'compound_furi': ['預ける', '預かる', '預金', '預ける'],
     'compound_un': ['ငွေအပ်သည်', 'ထိန်းသိမ်းသည်', 'အပ်ငွေ'],
@@ -97,7 +97,7 @@ final List kanjiCompound = [
     'compound_en': ['to entrust', 'to keep', 'to deposit'],
   },
   {
-    'id': 6,
+    'id': 5,
     'compound': ['込む', '持ち込む', '申し込む', '申込書', '見込み', '込める'],
     'compound_furi': ['込む', '持ち込む', '申し込む', '申込書', '見込み', '込める'],
     'compound_un': [
@@ -119,7 +119,7 @@ final List kanjiCompound = [
     ],
   },
   {
-    'id': 7,
+    'id': 6,
     'compound': ['荷物', '出荷', '重荷', '負荷', '入荷'],
     'compound_furi': ['荷物', '出荷', '重荷', '負荷', '入荷'],
     'compound_un': ['', '', '', '', ''],
@@ -139,7 +139,7 @@ final List kanjiCompound = [
     ],
   },
   {
-    'id': 8,
+    'id': 7,
     'compound': ['検査', '検索', '検討', '検事', '検証', '検出'],
     'compound_furi': ['検査', '検索', '検討', '検事', '検証', '検出'],
     'compound_un': [
@@ -161,7 +161,7 @@ final List kanjiCompound = [
     ],
   },
   {
-    'id': 9,
+    'id': 8,
     'compound': ['調査', '捜査', '審査', '巡査', '監査役'],
     'compound_furi': ['調査', '捜査', '審査', '巡査', '監査役'],
     'compound_un': [
@@ -173,6 +173,139 @@ final List kanjiCompound = [
     ],
     'compound_zg': ['', '', '', '', ''],
     'compound_en': ['inspect', 'investigate', 'judging', 'police', 'auditor'],
+  },
+  {
+    'id': 9,
+    'compound': ['満席', '満員', '満室', '満足な', '満足する', '不満', '満点'],
+    'compound_furi': ['満席', '満員', '満室', '満足な', '満足する', '不満', '満点'],
+    'compound_un': [
+      'ထိုင်ခုံအပြည့်',
+      'လူအပြည့်',
+      'အခန်းပြည့်',
+      'စိတ်ကျေနပ်သော ',
+      'စိတ်ကျေနပ်သည် ',
+      'စိတ်မကျေနပ်သော '
+    ],
+    'compound_zg': ['', '', '', '', '', ''],
+    'compound_en': [
+      'all seats filled',
+      'filled to capacity',
+      'full occupancy',
+      'satisfying',
+      'to be satisfied',
+      'unsatisfied',
+      'perfect score',
+    ],
+  },
+  {
+    'id': 10,
+    'compound': ['席', '出席する', '欠席する'],
+    'compound_furi': ['席', '出席する', '欠席する'],
+    'compound_un': ['ထိုင်ခုံ', 'တတ်ရောက်သည် ', 'ပျက်ကွက်သည်'],
+    'compound_zg': ['', '', '', ''],
+    'compound_en': ['seat', 'to attend', 'to be absent'],
+  },
+  {
+    'id': 11,
+    'compound': ['一番', '番目', '９番交番', '番組'],
+    'compound_furi': ['一番', '番目', '９番交番', '番組'],
+    'compound_un': ['အကောင်းဆုံး ', 'နံပါတ်', 'နံပါတ် 9', 'ရဲကင်း'],
+    'compound_zg': ['', '', '', '', ''],
+    'compound_en': ['the best', 'no.', 'no.9', 'police box', 'TVprogram'],
+  },
+  {
+    'id': 12,
+    'compound': ['番号', '３号車', '信号', '記号', '暗号', '称号'],
+    'compound_furi': ['番号', '３号車', '信号', '記号', '暗号', '称号'],
+    'compound_un': [
+      'နံပါတ်',
+      'ကားအမှတ်3',
+      'မီးပွိင့်',
+      ' သင်္ကေတ',
+      'ကုတ်နံပါတ်',
+      '‌ ခေါင်းစဉ်'
+    ],
+    'compound_zg': ['', '', '', '', '', ''],
+    'compound_en': ['number', 'car 3', ' traffic ', 'symbol', 'code', 'tittle'],
+  },
+  {
+    'id': 13,
+    'compound': ['通路', '道路', '線路', '高速道路', '回路', '経路'],
+    'compound_furi': ['通路', '道路', '線路', '高速道路', '回路', '経路'],
+    'compound_un': [
+      '‌ လျှောက်လမ်း',
+      'လမ်းမ',
+      'ရထားသံလမ်း',
+      'အမြန်လမ်း',
+      'ပလပ်ခုံ',
+      'အတန်း'
+    ],
+    'compound_zg': ['', '', '', '', '', ''],
+    'compound_en': [
+      'pathway',
+      'road',
+      'railway',
+      'highway',
+      'circuit',
+      'course'
+    ],
+  },
+  {
+    'id': 14,
+    'compound': ['右側', '外側', '通路側', '側', '側面', '内側'],
+    'compound_furi': ['右側', '外側', '通路側', '側', '側面', '内側'],
+    'compound_un': ['', '', '', '', '', ''],
+    'compound_zg': [
+      'ညာဘက်အခြမ်း',
+      'အပြင်ဘက်အခြမ်း',
+      '‌ လျှောက်လမ်းဘက်အခြမ်း',
+      'အနီးနား',
+      'ဘက်အခြမ်း',
+      'အတွင်းဘက်အခြမ်း'
+    ],
+    'compound_en': [
+      'right side',
+      'outside',
+      'pathway side',
+      'near',
+      'side',
+      'inside'
+    ],
+  },
+  {
+    'id': 15,
+    'compound': ['座る', '座席', '口座', '座長'],
+    'compound_furi': ['座る', '座席', '口座', '座長'],
+    'compound_un': ['ထိုင်သည်', 'ထိုင်ခုံ', 'ဘဏ်စာရင်း', 'ဥက္ကဌ'],
+    'compound_zg': [
+      '',
+      '',
+      '',
+      '',
+    ],
+    'compound_en': ['to sit', 'seat', 'bank account', 'chairman'],
+  },
+  {
+    'id': 16,
+    'compound': ['窓', '窓側', '窓口', '窓ガラス', '車窓', '天窓'],
+    'compound_furi': ['窓', '窓側', '窓口', '窓ガラス', '車窓', '天窓'],
+    'compound_un': [
+      'ပြတင်း‌ပေါက်',
+      ' ပြတင်းပေါက်ဘက်အခြမ်း',
+      '‌‌ေကာင်တာ',
+      'မှန်ပြတင်း‌ပေါက် ',
+      'ယာဥ်ပြတင်းပေါက်',
+      '‌ ခေါင်းမိုးရှိပြတင်းပေါက်'
+    ],
+    'compound_zg': ['', '', '', '', '', ''],
+    'compound_en': [
+      'window',
+      'window site ',
+      'counter',
+      'window pane',
+      'train window',
+      'skylight'
+    ],
   },
 ];
 String copyForCompound = """
