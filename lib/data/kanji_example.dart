@@ -66,11 +66,11 @@ final List kanjiExample = [
   },
    {
     'id': 8,
-    'example': ['','','','','',''],
-    'example_furi': ['','','','','',''],
-    'example_un': ['','','','','',''],
+    'example': ['この会社はFTCの調査を受けています。','事故の原因は警察が捜査中だった。','すぐに巡査が呼びにやられた。'],
+    'example_furi': ['この」会（かい）」社（しゃ）」はFTCの」調（ちょう）」査（さ）」を」受（う）」けています。','事（じ）」故（こ）」の」原（げん）」因（いん）」は」警（けい）」察（さつ）」が」捜（そう）」査（さ）」中（ちゅう）」だった。','すぐに」巡（じゅん）」査（さ）」が」呼（よ）」びにやられた。'],
+    'example_un': ['ဤကုမ္ပဏီသည် FTC မှ စုံစမ်းစစ်ဆေးဆဲဖြစ်သည်။','ယာဉ်တိုက်မှုဖြစ်ရတဲ့အကြောင်းရင်းကို ရဲတပ်ဖွဲ့က စုံစမ်းစစ်ဆေးနေပါတယ်။','ရဲတစ်ဦး ချက်ချင်း စေလွှတ်ခဲ့သည်။'],
     'example_zg': ['','','','','',''],
-    'example_en': ['','','','','','']
+    'example_en': ['This company is under investigation by the FTC.','The cause of the accident was being investigated by the police.','A policeman was sent for at once.']
   },
 ];
 String copyForExample = """
