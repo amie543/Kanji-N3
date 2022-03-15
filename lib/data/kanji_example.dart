@@ -105,12 +105,28 @@ final List kanjiExample = [
     'example_en': ['I took down her telephone number in my notebook.','The buffet or the cafeteria is in Car 9.','It\'s dangerous  to cross the street when the light is red.','The chemical symbol H expresses hydrogen.']
   },
    {
-    'id': 13,
-    'example': ['','','','','',''],
-    'example_furi': ['','','','','',''],
-    'example_un': ['','','','','',''],
+    'id': 277,
+    'example': ['この木はいつ植えたの？','家にりんごの木が植わっている','水が不足したら植物は育たない。','移植手術を受ける'],
+    'example_furi': ['この木はいつ」植（う）」えたの？','家（うち）」にりんごの木が」植（う）」わっている','水（みず）」が」不（ふ）」足（ぞく）」したら」植（しょく）」物（もの）」は」育（そだ）」たない。','移（い）」植（しょく）」手（しゅ）」術（じゅつ）」を」受（う）」ける','りんごの」木（き）」が」植（う）」わっている'],
+    'example_un': ['ဒီသစ်ပင်ကို ဘယ်တုန်းက စိုက်ခဲ့တာလဲ။','အိမ်မှာ ပန်းသီးပင်တွေ ပေါက်နေတယ်။','ရေပြတ်လပ်ရင် အပင်တွေ ရှင်သန်နိုင်မှာ မဟုတ်ပါဘူး။','အစားထိုး ခွဲစိတ်မှု ခံယူသည်'],
     'example_zg': ['','','','','',''],
-    'example_en': ['','','','','','']
+    'example_en': ['When did you plant this tree?','Apple trees are growing at home','If the shortage of water happens, plants cannot thrive.','The transplant is received.']
+  },
+   {
+    'id': 279,
+    'example': ['トマトの葉は食べられるか？','私には葉っぱとりんごしかありません。','寒くなって木の葉は、紅葉した。','言葉に気をつけろ'],
+    'example_furi': ['トマトの」葉（は）」は」食（た）」べられるか？','私には」葉（は）」っぱとりんごしかありません。','寒（さむ）」くなって」木（き）」の」葉（は）」は、紅（こう）」葉（よう）」した。','言（こと）」葉（ば）」に」気（き）」をつけろ！'],
+    'example_un': ['ခရမ်းချဉ်သီးအရွက်စားနိုင်ပါသလား။','ကျွန်တော့်မှာ အရွက်နဲ့ ပန်းသီးပဲရှိတယ်။','ရာသီဥတုအေးတော့ အရွက်တွေ နီရဲလာတယ်။','မင်းပါးစပ်ကို သတိထားပါ။'],
+    'example_zg': ['','','','','',''],
+    'example_en': ['Can you eat tomato leaves?','I have only leaves and apples.','The cold weather has turned the leaves red.','Mind your mouth.']
+  },
+   {
+    'id': 283,
+    'example': ['','木を根元から切り倒す','私の家の屋根は赤い。','木を根っこから掘り起こす','この事の根本には何かあるに違いない。'],
+    'example_furi': ['','木（き）」を」根（ね）」元（もと）」から」切（き）」り」倒（たたお）」す','私（わたし）」の」家（うち）」の」屋（や）」根（ね）」は」赤（あか）」い ','木（き）」を」根（ね）」っこから」掘（ほ）」り」起（お）」こす','この」事（こと）」の」根（こん）」本（ぽん）」には」何（なに）」かあるに」違（ちが）」いない。'],
+    'example_un': ['','','','',''],
+    'example_zg': ['','သစ်ပင်တစ်ပင်ကို အမြစ်ကနေ ခုတ်လှဲတယ်။','ငါ့အိမ်ခေါင်မိုးက အနီရောင်ဖြစ်တယ်','အမြစ်ကနေ သစ်ပင်တစ်ပင်ကို တူးတယ်။','ဒါတွေအားလုံးရဲ့အောက်ခြေမှာ တစ်ခုခုရှိရမယ်။'],
+    'example_en': ['','A tree is cut downfrom the root','The roof of my house is red.','I dug a tree from its root.','There must be something at the bottom of all this.']
   },
 ];
 String copyForExample = """
